@@ -1,7 +1,7 @@
-POST http://localhost:3001/notes
+POST http://localhost:3001/api/notes
 Content-Type: application/json
 
 {
-	"content": "everything will be goood",
+	"content": "Cmon Movilitas",
 	"important": true
 }
