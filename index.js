@@ -42,11 +42,6 @@ let notes = [
 	}
 ]
 
-
-app.get('/', (req, res) => {
-	res.send('<h1>Hello World!</h1>')
-});
-
 app.post('/api/notes', (request, response) => {
 	const body = request.body
 
