@@ -1,2 +1,2 @@
 # NoteAppBackend
-Simple note app for practicing React Hooks, test with jest
+Node.js, Jest, Mongodb, Heroku
